@@ -7,4 +7,5 @@
 
 
 jellyfin/jellyfin
+whyour/qinglong
 

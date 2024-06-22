@@ -8,4 +8,5 @@
 
 jellyfin/jellyfin
 whyour/qinglong
+jhao104/proxy_pool
 

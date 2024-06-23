@@ -9,4 +9,6 @@
 jellyfin/jellyfin
 whyour/qinglong
 jhao104/proxy_pool
+postgres:15-alpine
+redis:alpine
 

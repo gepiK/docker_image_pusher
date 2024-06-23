@@ -14,4 +14,5 @@ redis:alpine
 quay.io/soketi/soketi:1.6-16-alpine
 ghcr.io/coollabsio/coolify
 ghcr.io/coollabsio/coolify:4.0.0-beta.297
+traefik:v2.10
 

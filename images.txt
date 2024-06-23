@@ -11,4 +11,6 @@ whyour/qinglong
 jhao104/proxy_pool
 postgres:15-alpine
 redis:alpine
+quay.io/soketi/soketi:1.6-16-alpine
+ghcr.io/coollabsio/coolify
 
